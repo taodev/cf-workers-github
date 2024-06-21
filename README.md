@@ -104,7 +104,7 @@ GitHub个人访问令牌可以在GitHub设置中的"Developer settings" > "Perso
 | GH_NAME| cmliu | ❌| 你的GitHub用户名 |
 | GH_REPO| CF-Workers-Raw | ❌| 你的GitHub仓库(必须设置`GH_NAME`变量为前提) |
 | GH_BRANCH| main | ❌| 你的GitHub仓库(必须设置`GH_NAME`和`GH_REPO`变量为前提) |
-| URL302 | https://t.me/CMLiussss |❌| 主页302跳转 |
+| URL302 | https://baidu.com |❌| 主页302跳转 |
 | URL | https://github.com/cmliu/CF-Workers-Raw/blob/main/README.md |❌| 主页伪装 |
 | ERROR | 无法获取文件，检查路径或TOKEN是否正确。 |❌| 自定义错误提示 |
 
